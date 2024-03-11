@@ -1,0 +1,25 @@
+{
+  "name": "lab5_web_serverside",
+  "version": "1.0.0",
+  "description": "serverside API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarchMol/lab5_web_serverSide.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "José Marchena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarchMol/lab5_web_serverSide/issues"
+  },
+  "homepage": "https://github.com/MarchMol/lab5_web_serverSide#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
